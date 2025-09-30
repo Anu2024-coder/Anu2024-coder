@@ -1,16 +1,71 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=24&pause=1000&color=4a8df7&center=true&vCenter=true&width=800&lines=Hello%2C+welcome+to+my+GitHub!;Exploring+Machine+Learning+%26+Web+Development;Let's+build+something+innovative!" alt="Typing SVG" />
+</p>
 
-<!--
-**Anu2024-coder/Anu2024-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+> **"Ideas lead to innovation, and with AI & ML, we can turn those ideas into reality faster."**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💼 CSE 3rd Year Student (LPU)
+- ⚙️ Interested in Full-Stack Web Development, UI-UX designer
+- 🧠 Learning DSA (Java) + Advanced Web Dev
+- 🚀 Passionate about building real-world tech solutions
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages**: Java, JavaScript, SQL, PHP
+- **Front-End**: HTML, CSS, JavaScript
+- **Back-End**: Node.js, Express.js, React.js, REST API, Talwind CSS
+- **Databases**: MySQL, SQL, MongoDB
+- **Others**: Git, GitHub, Render, Vercel, VS Code
+
+---
+
+## 🧠 Learning Goals
+
+- Build scalable full-stack apps
+- Explore systems design & architecture
+
+---
+
+## 🧩 Projects
+
+| Project               | Description                                              | Live Demo |
+|-----------------------|----------------------------------------------------------|-----------|
+| **CardioScan**        | AI-based heart health monitoring web app                | [Visit](https://cardioscan.onrender.com/) |
+| **Daily Task Tracker**| Task manager with a clean UI for productivity           | [Visit](https://satyam-webdevelopment.github.io/Task_Management/) |
+| **WebCode Editor**    | Lightweight live code editor for web dev                | [Visit](https://lite-web-dev-editor.vercel.app/) |
+
+---
+
+## 🌐 Portfolio
+
+🔗 [My Portfolio Website](https://satyam-jaat.github.io/My-Portfolio-/)
+
+---
+
+## 📈 GitHub Stats
+
+![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anu2024-coder&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anu2024-coder&layout=compact&theme=tokyonight)
+
+### 🔥 Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anu2024-coder&theme=tokyonight)
+
+---
+
+## 📬 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/satyam-tomar-332678285/)
+- 💻 [LeetCode](https://leetcode.com/satyam_tomar/)
+- 📧 [satyamtomar41015@gmail.com](mailto:satyamtomar41015@gmail.com)
+
+---
+
+> **"When Web Development meets Machine Learning, creativity turns into intelligent innovation — building smarter solutions for a better tomorrow."**
