@@ -4,7 +4,7 @@
 
 ---
 
-> **"Ideas lead to innovation, and with AI & ML, we can turn those ideas into reality faster."**
+> **"Turning ideas into interactive experiences through the power of MERN Stack development."**
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 🌐 Portfolio
 
-🔗 [My Portfolio Website](https://satyam-jaat.github.io/My-Portfolio-/)
+🔗 [My Portfolio Website](https://anu2024-coder.github.io/MyPortfolio/)
 
 ---
 
