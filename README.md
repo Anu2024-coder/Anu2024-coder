@@ -62,9 +62,9 @@
 
 ## 📬 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/satyam-tomar-332678285/)
-- 💻 [LeetCode](https://leetcode.com/satyam_tomar/)
-- 📧 [satyamtomar41015@gmail.com](mailto:satyamtomar41015@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anu-gill-a59880294/)
+- 💻 [LeetCode](https://leetcode.com/u/Anu_gill/)
+- 📧 [gillanu2003@gmail.com](mailto:gillanu2003@gmail.com)
 
 ---
 
