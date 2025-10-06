@@ -68,4 +68,4 @@
 
 ---
 
-> **"When Web Development meets Machine Learning, creativity turns into intelligent innovation — building smarter solutions for a better tomorrow."**
+> **"Code is my canvas, and the web is my world — creating experiences that blend design, logic, and purpose."**
