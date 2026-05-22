@@ -30,11 +30,11 @@
 
 ## 🧩 Projects
 
-| Project | Description | Live Demo / Code |
+| Project | Description | Live Demo |
 |---|---|---|
 | **Thrust3D Platform** | Production-grade e-commerce platform for 3D printing services. Features 25+ secure REST APIs, role-based access control, rate limiting, payment workflows, dynamic pricing, and order lifecycle management. | [Live](https://thrust3d.com) |
 | **FlashKart – High-Concurrency E-Commerce** | Scalable commerce platform handling 10K+ concurrent users during flash sales. Built with Redis distributed locking, atomic operations, Razorpay HMAC-SHA256 payment verification, OTP authentication, and caching layers. | [Live](https://ecommerce-1-782g.onrender.com) |
-| **CareHub – Healthcare Queue Management** | Role-based healthcare workflow system for doctors, admins, and patients. Includes appointment scheduling, queue tracking, secure authentication pipelines, and scalable REST API architecture. | [GitHub](https://github.com/Anugill05/CareHub-MERN-Project) |
+| **FacultyUp - Faculty Performance Platform** | A full-stack faculty capacity building and performance assessment platform built for LPU. Features a weighted performance scoring engine from student ratings, attendance, achievements and workshops. Three-role system (Admin, Teacher, Student) with anonymous student feedback, achievement tracking, workshop management, and admin analytics dashboard. | [Live](https://facultyup1-frontend.onrender.com/) |
 
 ---
 
