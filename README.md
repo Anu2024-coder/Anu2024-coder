@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 CSE 3rd Year Student @ Lovely Professional University, Jalandhar
+- 💼 CSE 4th Year Student @ Lovely Professional University, Jalandhar
 - ⚙️ Full-Stack Engineer — MERN Stack, Distributed Systems, Backend Architecture
 - 🧠 Learning DSA (Java) + System Design + Advanced Web Dev
 - 🚀 Passionate about building real-world, production-grade tech solutions
@@ -49,12 +49,12 @@
 
 ## 📈 GitHub Stats
 
-![Anu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anu2024-coder&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anu2024-coder&layout=compact&theme=tokyonight)
+![Anu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anugill05&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anugill05&layout=compact&theme=tokyonight)
 
 ### 🔥 Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anu2024-coder&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anugill05&theme=tokyonight)
 
 ---
 
